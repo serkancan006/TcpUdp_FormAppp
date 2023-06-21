@@ -1,0 +1,8 @@
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\obj\Debug\MsSqlConsoleApp.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\obj\Debug\MsSqlConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\obj\Debug\MsSqlConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\obj\Debug\VTYS Final Hazırlık Sql Bağlantı.exe
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\obj\Debug\VTYS Final Hazırlık Sql Bağlantı.pdb
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\bin\Debug\VTYS Final Hazırlık Sql Bağlantı.exe.config
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\bin\Debug\VTYS Final Hazırlık Sql Bağlantı.exe
+C:\Users\SerkanCan\source\repos\VTYS Final Hazırlık Sql Bağlantı\bin\Debug\VTYS Final Hazırlık Sql Bağlantı.pdb
