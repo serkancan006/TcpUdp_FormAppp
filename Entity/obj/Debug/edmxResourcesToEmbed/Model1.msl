@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbSınavÖğrenci2ModelStoreContainer" CdmEntityContainer="DbSınavÖğrenci2Entities">
+    <EntitySetMapping Name="tblDersler">
+      <EntityTypeMapping TypeName="DbSınavÖğrenci2Model.tblDersler">
+        <MappingFragment StoreEntitySet="tblDersler">
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="DersAd" ColumnName="DersAd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblNotlar">
+      <EntityTypeMapping TypeName="DbSınavÖğrenci2Model.tblNotlar">
+        <MappingFragment StoreEntitySet="tblNotlar">
+          <ScalarProperty Name="NotID" ColumnName="NotID" />
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="ÖğrenciID" ColumnName="ÖğrenciID" />
+          <ScalarProperty Name="Sınav1" ColumnName="Sınav1" />
+          <ScalarProperty Name="Sınav2" ColumnName="Sınav2" />
+          <ScalarProperty Name="Sınav3" ColumnName="Sınav3" />
+          <ScalarProperty Name="Ortalama" ColumnName="Ortalama" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblÖğrenci">
+      <EntityTypeMapping TypeName="DbSınavÖğrenci2Model.tblÖğrenci">
+        <MappingFragment StoreEntitySet="tblÖğrenci">
+          <ScalarProperty Name="ÖğrenciID" ColumnName="ÖğrenciID" />
+          <ScalarProperty Name="ÖğrenciAd" ColumnName="ÖğrenciAd" />
+          <ScalarProperty Name="ÖğrenciSoyad" ColumnName="ÖğrenciSoyad" />
+          <ScalarProperty Name="ÖğrenciSehir" ColumnName="ÖğrenciSehir" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Sp_NotListesi" FunctionName="DbSınavÖğrenci2Model.Store.Sp_NotListesi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DbSınavÖğrenci2Model.Sp_NotListesi_Result">
+          <ScalarProperty Name="NotID" ColumnName="NotID" />
+          <ScalarProperty Name="Ad_Soyad" ColumnName="Ad Soyad" />
+          <ScalarProperty Name="DersAd" ColumnName="DersAd" />
+          <ScalarProperty Name="Sınav1" ColumnName="Sınav1" />
+          <ScalarProperty Name="Sınav2" ColumnName="Sınav2" />
+          <ScalarProperty Name="Sınav3" ColumnName="Sınav3" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="tblKulüpler">
+      <EntityTypeMapping TypeName="DbSınavÖğrenci2Model.tblKulüpler">
+        <MappingFragment StoreEntitySet="tblKulüpler">
+          <ScalarProperty Name="KulüpAd" ColumnName="KulüpAd" />
+          <ScalarProperty Name="KulüpID" ColumnName="KulüpID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

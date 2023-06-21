@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbSınavÖğrenci2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblDersler">
+    <Key>
+      <PropertyRef Name="DersID" />
+    </Key>
+    <Property Name="DersID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DersAd" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblKulüpler">
+    <Key>
+      <PropertyRef Name="KulüpID" />
+    </Key>
+    <Property Name="KulüpID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KulüpAd" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblNotlar">
+    <Key>
+      <PropertyRef Name="NotID" />
+    </Key>
+    <Property Name="NotID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DersID" Type="int" />
+    <Property Name="ÖğrenciID" Type="int" />
+    <Property Name="Sınav1" Type="int" />
+    <Property Name="Sınav2" Type="int" />
+    <Property Name="Sınav3" Type="int" />
+    <Property Name="Ortalama" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="Durum" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblÖğrenci">
+    <Key>
+      <PropertyRef Name="ÖğrenciID" />
+    </Key>
+    <Property Name="ÖğrenciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ÖğrenciAd" Type="nvarchar" MaxLength="50" />
+    <Property Name="ÖğrenciSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="ÖğrenciSehir" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_tblNotlar_tblDersler">
+    <End Role="tblDersler" Type="Self.tblDersler" Multiplicity="0..1" />
+    <End Role="tblNotlar" Type="Self.tblNotlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblDersler">
+        <PropertyRef Name="DersID" />
+      </Principal>
+      <Dependent Role="tblNotlar">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblNotlar_tblÖğrenci">
+    <End Role="tblÖğrenci" Type="Self.tblÖğrenci" Multiplicity="0..1" />
+    <End Role="tblNotlar" Type="Self.tblNotlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblÖğrenci">
+        <PropertyRef Name="ÖğrenciID" />
+      </Principal>
+      <Dependent Role="tblNotlar">
+        <PropertyRef Name="ÖğrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="Sp_NotListesi" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DbSınavÖğrenci2ModelStoreContainer">
+    <EntitySet Name="tblDersler" EntityType="Self.tblDersler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblKulüpler" EntityType="Self.tblKulüpler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblNotlar" EntityType="Self.tblNotlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblÖğrenci" EntityType="Self.tblÖğrenci" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tblNotlar_tblDersler" Association="Self.FK_tblNotlar_tblDersler">
+      <End Role="tblDersler" EntitySet="tblDersler" />
+      <End Role="tblNotlar" EntitySet="tblNotlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblNotlar_tblÖğrenci" Association="Self.FK_tblNotlar_tblÖğrenci">
+      <End Role="tblÖğrenci" EntitySet="tblÖğrenci" />
+      <End Role="tblNotlar" EntitySet="tblNotlar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

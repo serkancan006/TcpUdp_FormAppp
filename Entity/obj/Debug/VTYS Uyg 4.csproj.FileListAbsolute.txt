@@ -1,0 +1,32 @@
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.exe.config
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.exe
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.pdb
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS_Uyg_4.btnogrlist.resources
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS_Uyg_4.Properties.Resources.resources
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.GenerateResource.cache
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.exe
+C:\Users\Serkan Can\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.pdb
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.exe.config
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.exe
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\VTYS Uyg 4.pdb
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS_Uyg_4.btnogrlist.resources
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS_Uyg_4.Properties.Resources.resources
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.GenerateResource.cache
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.exe
+C:\Users\SerkanCan\source\repos\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.pdb

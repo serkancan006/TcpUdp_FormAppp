@@ -1,0 +1,16 @@
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\EntityFormApp.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\EntityFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\EntityFormApp.btnogrlist.resources
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\VTYS_Uyg_4.Properties.Resources.resources
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\EntityFormApp.csproj.GenerateResource.cache
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\EntityFormApp.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.exe
+C:\Users\SerkanCan\Desktop\VTYS Uyg 4\obj\Debug\VTYS Uyg 4.pdb
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\EntityFormApp.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\EntityFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\EntityFormApp.btnogrlist.resources
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\VTYS_Uyg_4.Properties.Resources.resources
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\EntityFormApp.csproj.GenerateResource.cache
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\EntityFormApp.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\VTYS Uyg 4.exe
+C:\Users\SerkanCan\Desktop\EntityFormApp\obj\Debug\VTYS Uyg 4.pdb
