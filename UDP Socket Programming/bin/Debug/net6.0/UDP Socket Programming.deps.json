@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UDP Socket Programming/1.0.0": {
+        "runtime": {
+          "UDP Socket Programming.dll": {}
+        }
+      },
+      "UDP Socket Programming Fonksiyonları/1.0.0": {
+        "runtime": {
+          "UDP Socket Programming Fonksiyonları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UDP Socket Programming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UDP Socket Programming Fonksiyonları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

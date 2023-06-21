@@ -1,0 +1,30 @@
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.exe
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.deps.json
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.runtimeconfig.json
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.pdb
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.AssemblyInfoInputs.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.AssemblyInfo.cs
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\refint\TCPSocketProgramming.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.pdb
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.genruntimeconfig.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgramming\obj\Debug\net6.0\ref\TCPSocketProgramming.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.AssemblyInfoInputs.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.AssemblyInfo.cs
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\refint\TCPSocketProgramming.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.pdb
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.exe
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.deps.json
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.runtimeconfig.json
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\bin\Debug\net6.0\TCPSocketProgramming.pdb
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\TCPSocketProgramming.genruntimeconfig.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgramming\obj\Debug\net6.0\ref\TCPSocketProgramming.dll

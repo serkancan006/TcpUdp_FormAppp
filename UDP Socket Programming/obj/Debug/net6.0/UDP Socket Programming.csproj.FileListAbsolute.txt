@@ -1,0 +1,36 @@
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.exe
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.deps.json
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.runtimeconfig.json
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.dll
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.pdb
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming Fonksiyonları.dll
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming Fonksiyonları.pdb
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.AssemblyInfoInputs.cache
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.AssemblyInfo.cs
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.dll
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\refint\UDP Socket Programming.dll
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.pdb
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.genruntimeconfig.cache
+C:\Users\Serkan Can\source\repos\UDP Socket Programming\obj\Debug\net6.0\ref\UDP Socket Programming.dll
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.exe
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.deps.json
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.runtimeconfig.json
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.dll
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming.pdb
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming Fonksiyonları.dll
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\bin\Debug\net6.0\UDP Socket Programming Fonksiyonları.pdb
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.AssemblyInfoInputs.cache
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.AssemblyInfo.cs
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.dll
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\refint\UDP Socket Programming.dll
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.pdb
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\UDP Socket Programming.genruntimeconfig.cache
+C:\Users\SerkanCan\source\repos\UDP Socket Programming\obj\Debug\net6.0\ref\UDP Socket Programming.dll
