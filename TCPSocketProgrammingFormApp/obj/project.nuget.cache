@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9U/5O/VIpb63K0OD8PbgEsmipYok1VC9pyFDOf5DWHoi+J+imnAmnDkf+4qkDNP49/RjgEWdOa1U2YvAB8kQPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SerkanCan\\source\\repos\\TCPSocketProgrammingFormApp\\TCPSocketProgrammingFormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SerkanCan\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

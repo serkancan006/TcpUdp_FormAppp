@@ -1,0 +1,38 @@
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.exe
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.deps.json
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.runtimeconfig.json
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.pdb
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\SimpleTCP.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.GenerateResource.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.AssemblyInfoInputs.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.AssemblyInfo.cs
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\refint\TCPSocketProgrammingFormApp.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.pdb
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.genruntimeconfig.cache
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\ref\TCPSocketProgrammingFormApp.dll
+C:\Users\Serkan Can\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.Form1.resources
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.exe
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.deps.json
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.runtimeconfig.json
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\TCPSocketProgrammingFormApp.pdb
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\bin\Debug\net6.0-windows\SimpleTCP.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.Form1.resources
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.GenerateResource.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.AssemblyInfoInputs.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.AssemblyInfo.cs
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\refint\TCPSocketProgrammingFormApp.dll
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.pdb
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\TCPSocketProgrammingFormApp.genruntimeconfig.cache
+C:\Users\SerkanCan\source\repos\TCPSocketProgrammingFormApp\obj\Debug\net6.0-windows\ref\TCPSocketProgrammingFormApp.dll
